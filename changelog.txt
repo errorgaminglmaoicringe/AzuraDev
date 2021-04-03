@@ -1,4 +1,6 @@
 [v2.2]
+* Improved Hypixel LongJump
+* Improved FPS
 + Added online changelog
 + HUD Code cleaner
 + ZoneCraft Speed Disabler
@@ -13,7 +15,6 @@
 * Improved NCP Scaffold
 * Improved Hypixel Phase
 * Improved Disablers
-* Improved Hypixel LongJump
 [v2.1]
 + HUD FONTS
 + HUD Code cleaner lmao

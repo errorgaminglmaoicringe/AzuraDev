@@ -2,7 +2,7 @@
 + Added online changelog
 * Improved Hypixel LongJump
 * Improved FPS
-* Improved TPAura Pathfinder (still not around blocks)
+* Improved Pathfinder (not around blocks)
 + HUD Code cleaner
 + ZoneCraft Speed Disabler
 + Killaura Auto F5

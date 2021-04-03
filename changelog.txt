@@ -1,7 +1,7 @@
 [v2.2]
++ Added online changelog
 * Improved Hypixel LongJump
 * Improved FPS
-+ Added online changelog
 + HUD Code cleaner
 + ZoneCraft Speed Disabler
 + Killaura Auto F5

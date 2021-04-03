@@ -7,6 +7,7 @@
 + Killaura Auto F5
 + Killaura Fake Autoblock
 + Vanilla ArrayList
++ Redesky Phase (VClip)
 * Fonts
 * Improved Blur
 * Improved Mineplex Speed

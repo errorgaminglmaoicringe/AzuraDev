@@ -12,8 +12,6 @@
 > Improved NCP Scaffold
 > Improved Hypixel Phase
 > Improved Disablers
-
-
 [v2.1]
 + HUD FONTS
 + HUD Code cleaner lmao
@@ -34,8 +32,6 @@
 > Improved more stuff
 - Foodbar feature
 - See Mode feature
-
-
 [v2.0]
 + AutoPot
 > Updated Hypixel Fly (its working)

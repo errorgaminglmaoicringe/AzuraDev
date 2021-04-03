@@ -5,15 +5,15 @@
 + Killaura Auto F5
 + Killaura Fake Autoblock
 + Vanilla ArrayList
-> Fonts
-> Improved Blur
-> Improved Mineplex Speed
-> Improved Target Strafe
-> Improved Mineplex LongJump
-> Improved NCP Scaffold
-> Improved Hypixel Phase
-> Improved Disablers
-> Improved Hypixel LongJump
+~ Fonts
+~ Improved Blur
+~ Improved Mineplex Speed
+~ Improved Target Strafe
+~ Improved Mineplex LongJump
+~ Improved NCP Scaffold
+~ Improved Hypixel Phase
+~ Improved Disablers
+~ Improved Hypixel LongJump
 [v2.1]
 + HUD FONTS
 + HUD Code cleaner lmao
@@ -29,22 +29,22 @@
 + Chams
 + Welcome message
 + More minor stuff
-> Improved Hypixel Port
-> Improved Blur
-> Improved more stuff
+~ Improved Hypixel Port
+~ Improved Blur
+~ Improved more stuff
 - Foodbar feature
 - See Mode feature
 [v2.0]
 + AutoPot
-> Updated Hypixel Fly (its working)
+~ Updated Hypixel Fly (its working)
 + Crosshair scale
 + A new ClickGui
 + Playtime
-> Improved cords
-> Improved Hypixel Fly
-> Updated Ghostly Disabler
+~ Improved cords
+~ Improved Hypixel Fly
+~ Updated Ghostly Disabler
 + Redesky Vanilla Fly
-> Improved OnlyMC Disabler (Semi-Full)
+~ Improved OnlyMC Disabler (Semi-Full)
 + HUD Cords
 + HUD FPS
 + HUD bossbar
@@ -52,8 +52,8 @@
 + Crosshair color
 + Azura announcements in client
 + HUD Playtime
-> Improved Hypixel criticals
-> Renamed Hypixel to packet
-> Improved Hypixel port
-> Improved Hypixel Longjump
+~ Improved Hypixel criticals
+~ Renamed Hypixel to packet
+~ Improved Hypixel port
+~ Improved Hypixel Longjump
 - Crosshair Width, Height

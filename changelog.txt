@@ -1,4 +1,5 @@
 [v2.2]
++ Added onliine changelog
 + HUD Code cleaner
 + ZoneCraft Speed Disabler
 + Killaura Auto F5

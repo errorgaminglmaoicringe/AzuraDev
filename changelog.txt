@@ -1,6 +1,5 @@
 [v2.2]
 + Added online changelog
-* Improved Hypixel LongJump
 * Improved FPS
 * Improved Pathfinder (not around blocks)
 + HUD Code cleaner

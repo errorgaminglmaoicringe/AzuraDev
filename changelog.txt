@@ -2,6 +2,7 @@
 + Azura Script (WIP)
 * Improved Hypixel Disabler
 * Improved Main Menu
+- Some Animations
 [v2.2]
 + Added online changelog
 + For any one reading this we have fixed the font bugs in the v2.3

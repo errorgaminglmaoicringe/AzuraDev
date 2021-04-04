@@ -1,3 +1,7 @@
+[v2.3]
++ Azura Script (WIP)
+* Improved Hypixel Disabler
+* Improved Main Menu
 [v2.2]
 + Added online changelog
 * Improved FPS

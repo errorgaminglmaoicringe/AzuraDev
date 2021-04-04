@@ -59,3 +59,4 @@
 * Improved Hypixel port
 * Improved Hypixel Longjump
 - Crosshair Width, Height
++ Thanks for scrolling :))

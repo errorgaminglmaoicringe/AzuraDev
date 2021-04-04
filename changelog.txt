@@ -5,7 +5,8 @@
 - Some Animations
 [v2.2]
 + Added online changelog
-+ For any one reading this we have fixed the font bugs in the v2.3
++ For any one reading this we have fixed the
+  font bugs in the v2.3
 * Improved FPS
 * Improved Pathfinder (not around blocks)
 + HUD Code cleaner

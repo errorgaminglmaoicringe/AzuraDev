@@ -1,6 +1,5 @@
 [v2.2]
 + Added online changelog
-+dfgökljdfklgjdfgkljdfglkjdsfljkjsdfoikjsdfjlsdhfkjsdhfkajwdlkjweiorusdjfdsbjksdnckwandsbrzwehdjksanfiwehadjfhnfgreuifehwaojfhdkfhjgziuerkasdjcbnsdhbkdlkasjfsdlkjfsdjkhf#SDf#gsf#df#gß´qß´w´S?S?aß?A
 * Improved FPS
 * Improved Pathfinder (not around blocks)
 + HUD Code cleaner

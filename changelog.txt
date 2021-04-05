@@ -1,4 +1,5 @@
 [v2.3]
++ Silent Movefix (KillAura)
 + Azura Script (WIP)
 * Improved Hypixel Disabler
 * Little bit of FPS

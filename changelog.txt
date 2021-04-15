@@ -1,6 +1,6 @@
 [v2.3]
 + New Cape Design
-* Fixed hypixel flight
+* Fixed hypixel criticals
 + Silent Movefix (KillAura)
 + Azura Script (WIP)
 * Improved Hypixel Disabler

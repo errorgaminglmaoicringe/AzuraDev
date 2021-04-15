@@ -1,4 +1,5 @@
 [v2.3]
++ Added some important commands
 + New Cape Design
 * Fixed hypixel criticals
 + Silent Movefix (KillAura)

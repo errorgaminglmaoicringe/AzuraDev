@@ -1,4 +1,6 @@
 [v2.3]
+* Hypixel Rotations
+* Hypixel Scaffold
 + Added some important commands
 + New Cape Design
 * Fixed hypixel criticals

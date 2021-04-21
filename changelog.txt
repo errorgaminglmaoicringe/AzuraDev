@@ -9,7 +9,7 @@
 * Hypixel Rotations
 * Hypixel Scaffold
 + Added some important commands
-+ New Cape Design
++ New Cape Design by MaciekTM
 * Fixed hypixel criticals
 + Silent Movefix (KillAura)
 + Azura Script (WIP)

@@ -5,7 +5,6 @@
 
 [v2.3]
 * New Killaura
-+ Hello Glitch
 ~ PenisESP (WIP)
 * TargetStrafe design
 * TargetStafe it self

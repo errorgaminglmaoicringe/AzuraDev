@@ -4,6 +4,7 @@
 ~ = Work in progress
 
 [v2.3]
+* New Killaura
 ~ PenisESP (WIP)
 * TargetStrafe design
 * TargetStafe it self

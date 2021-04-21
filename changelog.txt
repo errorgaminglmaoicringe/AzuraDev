@@ -1,4 +1,11 @@
+* = Improvements
++ = New
+- = Removed
+
 [v2.3]
+* TargetStrafe design
+* TargetStafe it self
+* Redesky Longjump's
 * Hypixel Rotations
 * Hypixel Scaffold
 + Added some important commands

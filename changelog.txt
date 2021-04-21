@@ -1,8 +1,10 @@
 * = Improvements
 + = New
 - = Removed
+~ = Work in progress
 
 [v2.3]
+~ PenisESP (WIP)
 * TargetStrafe design
 * TargetStafe it self
 * Redesky Longjump's
@@ -12,7 +14,7 @@
 + New Cape Design by MaciekTM
 * Fixed hypixel criticals
 + Silent Movefix (KillAura)
-+ Azura Script (WIP)
+~ Azura Script (WIP)
 * Improved Hypixel Disabler
 * Little bit of FPS
 * Improved Main Menu

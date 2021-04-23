@@ -4,6 +4,8 @@
 ~ = Work in progress
 
 [v2.3]
+- Hypixel Fly
++ Hypixel Longjump
 * New Killaura
 ~ PenisESP (WIP)
 * TargetStrafe design

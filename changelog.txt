@@ -5,16 +5,16 @@
 
 [v2.3]
 + Hot F5 Block animation
-~ 2D ESP Scale Problem
-~ 2D ESP (Working Corner)
-~ Chams
+* 2D ESP Scale Problem
+* 2D ESP (Working Corner)
+* Chams
 + Colored Chams
 + Outline ESP
 + Minecraft ESP
-~ Hypixel Speed
+* Hypixel Speed
 + HUD Secret
-~ HUD FPS
-~ Hypixel Longjump
+* HUD FPS
+* Hypixel Longjump
 - Hypixel Fly
 + Hypixel Longjump
 * New Killaura

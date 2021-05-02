@@ -4,6 +4,16 @@
 ~ = Work in progress
 
 [v2.3]
+~ 2D ESP Scale Problem
+~ 2D ESP (Working Corner)
+~ Chams
++ Colored Chams
++ Outline ESP
++ Minecraft ESP
+~ Hypixel Speed
++ HUD Secret
+~ HUD FPS
+~ Hypixel Longjump
 - Hypixel Fly
 + Hypixel Longjump
 * New Killaura

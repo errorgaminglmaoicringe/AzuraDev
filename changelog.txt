@@ -4,6 +4,7 @@
 ~ = Work in progress
 
 [v2.3]
++ ChatBypass (working on hypixel)
 + Hot F5 Block animation
 * 2D ESP Scale Problem
 * 2D ESP (Working Corner)

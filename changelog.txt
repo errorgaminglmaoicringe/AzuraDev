@@ -5,7 +5,7 @@
 
 [v2.3]
 * + Recoded HUD
-* Fixed a bug when disabling the cape module.
+* Fixed a bug when disabling cape
 it still being rendered!
 * Hypixel Speed
 + ChatBypass (working on hypixel)

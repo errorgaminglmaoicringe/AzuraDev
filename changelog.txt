@@ -4,6 +4,9 @@
 ~ = Work in progress
 
 [v2.3]
+* Fixed a bug when disabling the cape module.
+it still being rendered!
+* Hypixel Speed
 + ChatBypass (working on hypixel)
 + Hot F5 Block animation
 * 2D ESP Scale Problem

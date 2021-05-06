@@ -4,6 +4,7 @@
 ~ = Work in progress
 
 [v2.3]
+* + Recoded HUD
 * Fixed a bug when disabling the cape module.
 it still being rendered!
 * Hypixel Speed

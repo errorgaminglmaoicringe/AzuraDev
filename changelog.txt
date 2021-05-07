@@ -4,6 +4,8 @@
 ~ = Work in progress
 
 [v2.3]
++ Cool intent api.
+Makes cool stuff possible
 * + Recoded HUD
 * Fixed a bug when disabling cape
 it still being rendered!

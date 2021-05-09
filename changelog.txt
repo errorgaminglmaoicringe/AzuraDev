@@ -5,6 +5,7 @@
 
 [v2.4]
 + AAC3 Null Velocity
++ AAC3 AntiVoid
 [v2.3]
 + Cool intent api.
 Makes cool stuff possible

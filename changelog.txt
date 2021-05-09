@@ -3,6 +3,8 @@
 - = Removed
 ~ = Work in progress
 
+[v2.4]
++ AAC3 Null Velocity
 [v2.3]
 + Cool intent api.
 Makes cool stuff possible

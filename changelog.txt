@@ -4,6 +4,9 @@
 ~ = Work in progress
 
 [v2.4]
+* Cubecraft Longjump
+* Hypixel Longjump
+* Hypixel Speed
 + AAC3 Null Velocity
 + AAC3 AntiVoid
 + Cool intent api.

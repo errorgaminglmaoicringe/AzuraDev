@@ -4,6 +4,10 @@
 ~ = Work in progress
 
 [v2.4]
++ 3 New Clickguis xd
+* General Design
+* Hypixel Disabler
++ New NoBob Modes
 * Cubecraft Longjump
 * Hypixel Longjump
 * Hypixel Speed

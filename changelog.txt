@@ -4,8 +4,8 @@
 ~ = Work in progress
 
 [v2.4]
-* Some other minor 😳 stuff
-+ Slide1 Animation 😀
+* Some other minor stuff
++ Slide1 Animation 
 * Slide Animation
 + 3 New Clickgui's
 * General Design

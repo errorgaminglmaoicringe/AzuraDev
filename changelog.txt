@@ -4,7 +4,9 @@
 ~ = Work in progress
 
 [v2.4]
-+ 3 New Clickguis xd
++ Slide1 Animation 😀
+* Slide Animation
++ 3 New Clickgui's
 * General Design
 * Hypixel Disabler
 + New NoBob Modes

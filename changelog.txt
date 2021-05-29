@@ -4,6 +4,7 @@
 ~ = Work in progress
 
 [v2.4]
++ Working Watchdog Step
 * Some other minor stuff
 + Slide1 Animation 
 * Slide Animation

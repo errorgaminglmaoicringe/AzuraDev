@@ -21,7 +21,8 @@
 + Potion Status
 + Other category
 + Skinhider ( Streamermode ) 
-+ Verus Damage 2 
++ Verus Damage 2 (non-blink, slower)
+  & Verus Damage 3 (blink, faster)
 + NameProtect
 * Watchdog AntiVoid
 + Working Watchdog Step

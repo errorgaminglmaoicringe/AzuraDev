@@ -4,6 +4,8 @@
 ~ = Work in progress
 
 [v2.4]
+* Scaffold (Watchdog)
+* AutoPot
 * Penis ESP
 + NickDetector
 + PearFly

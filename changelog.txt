@@ -4,6 +4,16 @@
 ~ = Work in progress
 
 [v2.4]
++ And other stuff that isn't that important
++ AntiAim
+* AutoRedesky ( Register setting )
++ Auto Groom
+* Sigma hatar Detector
++ Login Gui :yes:
++ Potion Status
++ Other category
++ Skinhider ( Streamermode ) 
++ Verus Damage 2 
 + NameProtect
 * Watchdog AntiVoid
 + Working Watchdog Step

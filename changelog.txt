@@ -4,6 +4,12 @@
 ~ = Work in progress
 
 [v2.4]
+* Penis ESP
++ NickDetector
++ PearFly
++ Follow Player
+* Packet crits (Not for Hypixel)
++ Super123Module CrazyHalal
 + And other stuff that isn't that important
 + AntiAim
 * AutoRedesky ( Register setting )

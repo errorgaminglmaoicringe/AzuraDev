@@ -4,6 +4,7 @@
 ~ = Work in progress
 
 [v2.4]
+* Notifications (Icons)
 * Scaffold (Watchdog)
 * AutoPot
 * Penis ESP

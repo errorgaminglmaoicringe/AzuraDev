@@ -4,6 +4,7 @@
 ~ = Work in progress
 
 [v2.4]
++ Crazy Hypixel fly
 * Notifications (Icons)
 * Scaffold (Watchdog)
 * AutoPot

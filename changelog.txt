@@ -3,6 +3,7 @@
 - = Removed
 ~ = Work in progress
 [v2.5]
+* Exhibition sword animation
 + New Cape by MaciekTM
 [v2.4]
 + Crazy Hypixel fly

@@ -4,6 +4,7 @@
 ~ = Work in progress
 
 [v2.4]
++ New Cape by MaciekTM
 + Crazy Hypixel fly
 * Notifications (Icons)
 * Scaffold (Watchdog)

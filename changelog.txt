@@ -3,6 +3,11 @@
 - = Removed
 ~ = Work in progress
 [v2.5]
+- Verus Criticals
+- PearlFly
++ AntiAim
+* StreamerMode
++ Potion saver
 - Other useless modules
 - Nobob
 + Hand chams

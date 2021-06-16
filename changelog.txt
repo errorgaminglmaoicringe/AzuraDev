@@ -3,6 +3,10 @@
 - = Removed
 ~ = Work in progress
 [v2.5]
+- Other useless modules
+- Nobob
++ Hand chams
++ Colored chams
 * Exhibition sword animation
 + New Cape by MaciekTM
 [v2.4]

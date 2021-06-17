@@ -3,6 +3,10 @@
 - = Removed
 ~ = Work in progress
 [v2.5]
++ Watermark offset
++ Watermark settings
+- Watermark modes
++ Font offset
 + Behind TargetStrafe
 - Verus Criticals
 - PearlFly

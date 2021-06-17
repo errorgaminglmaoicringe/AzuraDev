@@ -3,6 +3,10 @@
 - = Removed
 ~ = Work in progress
 [v2.5]
+* Fixed a bug when rendering the name
++ Jump setting for fly
++ Fly slow on end setting
+* Fixed a Fucker render bug
 + Stats module
 * Secret clickgui
 * Colored chams

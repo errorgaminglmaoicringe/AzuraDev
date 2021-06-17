@@ -4,8 +4,8 @@
 ~ = Work in progress
 [v2.5]
 + Behind TargetStrafe
-+ Watermark offset
-+ Watermark settings
++ Watermark boolean settings
++ Watermark modes
 - Watermark modes
 + Font offset
 - Verus Criticals

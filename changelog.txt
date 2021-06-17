@@ -3,6 +3,17 @@
 - = Removed
 ~ = Work in progress
 [v2.5]
++ Stats module
+* Secret clickgui
+* Colored chams
++ KillAura fake smooth
+* Speed (watchdog)
+* Streamermode
+* TPAura
+* Fullbright
++ Crosshair dynamic offset slider
+* Swong animation
+- Exhibition animation
 + Behind TargetStrafe
 + Watermark boolean settings
 + Watermark modes

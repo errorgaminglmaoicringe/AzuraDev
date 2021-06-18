@@ -3,6 +3,8 @@
 - = Removed
 ~ = Work in progress
 [v2.5]
+* Reloading time
+* Starting time
 + NoRotateSet Watchdog boolean (bypass)
 * Fixed a bug when rendering the name
 + Jump setting for fly

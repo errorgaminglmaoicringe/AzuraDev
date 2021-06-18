@@ -3,6 +3,7 @@
 - = Removed
 ~ = Work in progress
 [v2.5]
++ Cat ESP (in ESP)
 * Reloading time
 * Starting time
 + NoRotateSet Watchdog boolean (bypass)

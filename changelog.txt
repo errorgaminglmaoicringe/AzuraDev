@@ -3,6 +3,9 @@
 - = Removed
 ~ = Work in progress
 [v2.4]
++ Moved ChestESP to ESP
++ 4 New HUD secrets
+- Ghost modules
 + DamageParticles
 * Reloading time
 * Starting time

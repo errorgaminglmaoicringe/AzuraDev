@@ -8,7 +8,8 @@
 + Sprint Scaffold for Hypixel
 * Fixed Watchdog Speed
 + Recoded AutoPot, AutoGapple, 
-  AutoSoup and merged them into one module
+  AutoSoup and merged them into one 
+  module
 * Fixed the issue of not saving shit
 [v2.4]
 + Moved ChestESP to ESP

@@ -4,6 +4,11 @@
 ~ = Work in progress
 [v2.5]
 Fixed the issue of not saving shit
++ WorldColor
++ Sprint Scaffold for Hypixel
+* Fixed Watchdog Speed
++ Recoded AutoPot, AutoGapple, 
+  AutoSoup and merged them into one module
 [v2.4]
 + Moved ChestESP to ESP
 + 4 New HUD secrets

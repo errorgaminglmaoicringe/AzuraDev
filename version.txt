@@ -1,2 +1,2 @@
-dev:2.5
+dev:3.0
 public:2.4

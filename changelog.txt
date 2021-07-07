@@ -3,9 +3,17 @@
 - = Removed
 ~ = Work in progress
 [v3.0]
+~ Unfinished Watchdog Disabler
+* Improved Azura Script
++ AutoHypixel autodetect
++ Hypixel Auto Quick Math for Pit
+  in AutoHypixel
++ Added Watchdog SlowFall Speed
+* Improved Watchdog FastFall Speed
 * Fixed Watchdog Tower
 + WorldColor
 + Sprint Scaffold for Hypixel
++ Added Watchdog FastFall Speed
 * Fixed Watchdog Speed
 + Recoded AutoPot, AutoGapple, 
   AutoSoup and merged them into one 

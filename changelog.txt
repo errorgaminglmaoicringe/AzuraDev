@@ -2,6 +2,11 @@
 + = New
 - = Removed
 ~ = Work in progress
+[v3.1]
+* Fixed Watchdog Disabler
++ Skeet Gui
+* Fixed crash in Alt Login
+* Recoded ESP
 [v3.0]
 ~ Unfinished Watchdog Disabler
 * Improved Azura Script

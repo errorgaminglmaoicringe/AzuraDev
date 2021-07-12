@@ -3,6 +3,13 @@
 - = Removed
 ~ = Work in progress
 [v3.1]
+*Renamed the majority of modules with spaces in their names.
+-Removed Nametags
+*Changed the Scaffold block counter
++ Other stuff
++ Other Icons for notifications
+* Animations : Slide animation
+* Fixed TargetStrafe without the speedTime
 Fixed minor bugs
 and other.
 * Design

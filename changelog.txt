@@ -3,12 +3,16 @@
 - = Removed
 ~ = Work in progress
 [v3.2]
-*Fixed most of the bannings on Hypixel
++ Made Inventory Viewer movable thorugh the CustomHUD
++ Key Strokes
++ Radar
++ Moved TargetHUD into the CustomHUD
 + New client desgin made by kiyoshi
+* Fixed most of the bannings on Hypixel
 [v3.1]
-*Renamed the majority of modules with spaces in their names.
--Removed Nametags
-*Changed the Scaffold block counter
+* Renamed the majority of modules with spaces in their names.
+- Removed Nametags
+* Changed the Scaffold block counter
 + Other stuff
 + Other Icons for notifications
 * Animations : Slide animation

@@ -2,6 +2,9 @@
 + = New
 - = Removed
 ~ = Work in progress
+[v3.2]
+*Fixed most of the bannings on Hypixel
++ New client desgin made by kiyoshi
 [v3.1]
 *Renamed the majority of modules with spaces in their names.
 -Removed Nametags

@@ -3,6 +3,8 @@
 - = Removed
 ~ = Work in progress
 [v3.2]
+* Watchduck Longjump, Flight
+* Watchdog Scaffold
 + Made Inventory Viewer movable thorugh the CustomHUD
 + Key Strokes
 + Radar

@@ -3,6 +3,7 @@
 - = Removed
 ~ = Work in progress
 [v3.2]
++ "AntiDetect" in InvMove (no moving in inventories)
 + Custom Font Gui
 * Watchduck Longjump, Flight
 * Watchdog Scaffold

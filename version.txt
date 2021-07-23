@@ -1,2 +1,2 @@
 dev:3.2
-public:3.0
+public:3.1

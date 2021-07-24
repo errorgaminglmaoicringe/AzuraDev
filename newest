@@ -1,3 +1,8 @@
+- HUD Color mode : Saturation
++ Vanilla font in ArrayList
++ Creative mode fly into Flight
+* Renamed Vanilla to Motion
+- Most of the useless modes
 + Azura TargetHUD
 + "AntiDetect" in InvMove (no moving in inventories)
 + Custom Font Gui

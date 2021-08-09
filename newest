@@ -1,3 +1,14 @@
+* Changed colors of Spotify Element
+* Fixed HUD Astolfo colors
+* Made Animations Y possible to move it into -0.5
++ Cops N Crims module for Hypixel
+- FOV
+- No hurt
+- Camera clip
++ Camera : Sprint strength
++ Camera : Camera clip
++ Camera : No clip
++ Camera module
 * Cubecraft disabler
 * Fixed all modules being enabled
 + Angle step in KillAura

@@ -1,3 +1,5 @@
+* Fixed AltManager scrolling bug
+* Made changelog scale smaller
 * Changed colors of Spotify Element
 * Fixed HUD Astolfo colors
 * Made Animations Y possible to move it into -0.5

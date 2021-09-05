@@ -8,6 +8,7 @@
 + Flat chams option
 + No inventory for Hypixel
 + Watchdog Nofall
+* Watchdog speed (Again)
 * Watchdog speed
 + Block overlay
 + AntiAC NoFall (might kick)
@@ -24,6 +25,11 @@
 * Fixed HUD Astolfo colors
 * Made Animations Y possible to move it into -0.5
 + Cops N Crims module for Hypixel
+* Verus Hop
++ Verus Ground Speed
+* Verus NoFall
++ Verus Scaffold Boost
++ Verus Tower
 - FOV
 - No hurt
 - Camera clip
@@ -35,6 +41,7 @@
 * Fixed all modules being enabled
 + Angle step in KillAura
 + Ban Command
+* Hypixel Speed
 + New Cape
 * KillAura
 + Spotify API

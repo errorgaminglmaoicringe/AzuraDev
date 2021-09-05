@@ -1,3 +1,8 @@
+* Verus Hop
++ Verus Ground Speed
+* Verus NoFall
++ Verus Scaffold Boost
++ Verus Tower
 + Settings for Criticals = Delay
 + Zone Craft vertical fly
 * Path finding in TPAura
@@ -25,11 +30,6 @@
 * Fixed HUD Astolfo colors
 * Made Animations Y possible to move it into -0.5
 + Cops N Crims module for Hypixel
-* Verus Hop
-+ Verus Ground Speed
-* Verus NoFall
-+ Verus Scaffold Boost
-+ Verus Tower
 - FOV
 - No hurt
 - Camera clip
@@ -65,7 +65,7 @@
 - Redesky,Void,Dynamic Phase
 + Creative Fly
 - Vanilla
-* Renamed Vanilla
+* Renamed Vanilla to Motion
 + New Clickgui
 + Skeet TargetHUD
 * Inventory Manager

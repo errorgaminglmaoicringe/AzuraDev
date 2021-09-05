@@ -8,7 +8,6 @@
 + Flat chams option
 + No inventory for Hypixel
 + Watchdog Nofall
-* Watchdog speed (Again)
 * Watchdog speed
 + Block overlay
 + AntiAC NoFall (might kick)
@@ -36,7 +35,6 @@
 * Fixed all modules being enabled
 + Angle step in KillAura
 + Ban Command
-* Hypixel Speed
 + New Cape
 * KillAura
 + Spotify API
